@@ -1,9 +1,9 @@
 📘 Digital Literacy Project
 
 👨‍🎓 Student Details
- Name: Nancy
- Branch: Computer Science Engineering
- Year: 1st Year
+ Name:  Nancy
+ Branch:  Computer Science Engineering
+ Year:  1st Year
 
 📌 Project Overview
 This project focuses on building digital literacy skills required for academic and professional success. It covers topics such as online presence, coding practice, communication etiquette, collaboration tools, and cybercrime awareness.
